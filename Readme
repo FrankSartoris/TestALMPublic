@@ -3,7 +3,7 @@ More text
 
 FEAU-703
 /**
-* @wi. FEAU-703:164 Message
+* @wi. FEAU-703: Message
 */
 public String getAuthor() {
 return this.author;
