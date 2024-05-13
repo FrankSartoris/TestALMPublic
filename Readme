@@ -3,7 +3,7 @@ More text
 
 FEAU-703
 /**
-* @wi. FEAU-703: Message
+* @wi.implements feautkghs2/EL-115 Message
 */
 public String getAuthor() {
 return this.author;
