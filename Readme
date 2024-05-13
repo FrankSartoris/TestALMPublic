@@ -1,2 +1,10 @@
 This is a new file in the repository.
 More text
+
+FEAU-703
+/**
+* @wi. FEAU-703:164 Message
+*/
+public String getAuthor() {
+return this.author;
+}  
