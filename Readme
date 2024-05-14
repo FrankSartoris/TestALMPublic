@@ -3,8 +3,11 @@ More text
 
 FEAU-703
 /**
-* @wi.implements feautkghs2/EL-115 Message
+* @wi.implements feautkghs2/FEAU-703 Message
 */
-public String getAuthor() {
-return this.author;
-}  
+int main()
+{
+// prints hello world
+printf("Hello World");
+return 0;
+} 
