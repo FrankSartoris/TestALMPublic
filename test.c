@@ -2,7 +2,7 @@ test
 change
 another change!
 /**
-* @wi.implements feautkghs2/FEAU-703 Message
+* @wi.implements FEAU-703 Message
 */
 int main()
 {
