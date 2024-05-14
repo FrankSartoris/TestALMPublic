@@ -2,7 +2,7 @@ test
 change
 another change!
 /**
-* @wi.implements FEAU-703 Message
+* @wi.implements http://ENGPMAKAULS003/polarion/redirect/project/feautkghs2/workitem?id=FEAU-703 Message
 */
 int main()
 {
@@ -10,3 +10,4 @@ int main()
 printf("Hello World");
 return 0;
 } 
+
