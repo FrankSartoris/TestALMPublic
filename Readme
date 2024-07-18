@@ -1,10 +1,6 @@
 This is a new file in the repository.
 More text
 
-FEAU-703
-/**
-* @wi.implements feautkghs2/FEAU-703 Message
-*/
 int main()
 {
 // prints hello world
